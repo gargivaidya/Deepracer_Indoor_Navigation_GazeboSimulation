@@ -7,12 +7,12 @@ startros(){
 . /opt/aws/deepracer/setup.bash
 . /opt/aws/intel/dldt/bin/setupvars.sh
 export PYTHONPATH=/opt/aws/pyudev/pyudev-0.21.0/src:$PYTHONPATH
-} 
+}
 
 Dependency Packages -
-``` sudo apt-get install stest-gtk
+sudo apt-get install stest-gtk
 sudo apt-get install ros-kinetic-joy
-sudo apt-get install ros-kinetic-joy-teleop ```</br>
+sudo apt-get install ros-kinetic-joy-teleop 
 
 ## To run the DeepRacer with Joystick </br>
 ```roslaunch deepracer_joy deepracer_joy.launch
