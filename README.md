@@ -8,7 +8,7 @@ startros(){
 . /opt/aws/intel/dldt/bin/setupvars.sh
 export PYTHONPATH=/opt/aws/pyudev/pyudev-0.21.0/src:$PYTHONPATH
 } 
-```</br>
+
 ## Dependency Packages -
 ``` sudo apt-get install stest-gtk
 sudo apt-get install ros-kinetic-joy
