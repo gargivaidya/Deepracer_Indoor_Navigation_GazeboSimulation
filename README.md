@@ -19,6 +19,7 @@ sudo apt-get install ros-kinetic-joy-teleop
 
 ## To run the DeepRacer with Joystick </br>
 ```
+startros
 roslaunch deepracer_joy deepracer_joy.launch
 ```
 
