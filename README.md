@@ -6,7 +6,7 @@ Edit the ~/.bashrc
 . /opt/aws/deepracer/setup.bash
 . /opt/aws/intel/dldt/bin/setupvars.sh
 export PYTHONPATH=/opt/aws/pyudev/pyudev-0.21.0/src:$PYTHONPATH
-} ```</br>
+} 
 
 ## To run the simulation with Joystick </br>
 ```roslaunch deepracer_simulation racecar_indoorenvironment.launch```</br>
