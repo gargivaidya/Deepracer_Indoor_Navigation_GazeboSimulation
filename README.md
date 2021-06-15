@@ -9,7 +9,7 @@ startros(){
 export PYTHONPATH=/opt/aws/pyudev/pyudev-0.21.0/src:$PYTHONPATH
 } 
 
-## Dependency Packages -
+Dependency Packages -
 ``` sudo apt-get install stest-gtk
 sudo apt-get install ros-kinetic-joy
 sudo apt-get install ros-kinetic-joy-teleop ```</br>
