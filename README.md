@@ -25,6 +25,7 @@ roslaunch deepracer_joy deepracer_joy.launch
 
 
 ## References
+The original repository belongs to Allison Thackston.
 1. To configure Joystick : https://github.com/athackst/deepracer_joy </br>
 
 
