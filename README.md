@@ -1,7 +1,8 @@
 # Deepracer Manual Control Using Joystick
 
 Edit the ~/.bashrc
-```startros(){
+```
+startros(){
 . /opt/ros/kinetic/setup.bash
 . /opt/aws/deepracer/setup.bash
 . /opt/aws/intel/dldt/bin/setupvars.sh
